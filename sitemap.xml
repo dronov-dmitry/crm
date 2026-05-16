@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Landing Page — главная -->
+  <url>
+    <loc>https://dronov-dmitry.github.io/crm/</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dronov-dmitry.github.io/crm/" />
+  </url>
+
+  <!-- Dashboard — дашборд -->
+  <url>
+    <loc>https://dronov-dmitry.github.io/crm/</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dronov-dmitry.github.io/crm/" />
+  </url>
+
+  <!-- Pipeline — воронка продаж -->
+  <url>
+    <loc>https://dronov-dmitry.github.io/crm/pipeline</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dronov-dmitry.github.io/crm/pipeline" />
+  </url>
+
+  <!-- Analytics — аналитика -->
+  <url>
+    <loc>https://dronov-dmitry.github.io/crm/analytics</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dronov-dmitry.github.io/crm/analytics" />
+  </url>
+
+  <!-- Contacts — контакты -->
+  <url>
+    <loc>https://dronov-dmitry.github.io/crm/contacts</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dronov-dmitry.github.io/crm/contacts" />
+  </url>
+
+  <!-- Company — компания -->
+  <url>
+    <loc>https://dronov-dmitry.github.io/crm/company</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dronov-dmitry.github.io/crm/company" />
+  </url>
+
+  <!-- Settings — настройки -->
+  <url>
+    <loc>https://dronov-dmitry.github.io/crm/settings</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dronov-dmitry.github.io/crm/settings" />
+  </url>
+
+  <!-- Info — информация -->
+  <url>
+    <loc>https://dronov-dmitry.github.io/crm/info</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dronov-dmitry.github.io/crm/info" />
+  </url>
+
+  <!-- Terms — условия использования -->
+  <url>
+    <loc>https://dronov-dmitry.github.io/crm/terms</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dronov-dmitry.github.io/crm/terms" />
+  </url>
+
+</urlset>

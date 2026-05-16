@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+
+# Disallow internal app routes (authenticated pages — no SEO value)
+Disallow: /pipeline
+Disallow: /analytics
+Disallow: /contacts
+Disallow: /company
+Disallow: /settings
+Disallow: /info
+Disallow: /invite/
+Disallow: /api/
+
+# Sitemap
+Sitemap: https://lightweight-cloud-crm.pages.dev/sitemap.xml
+
+# Crawl-delay for polite bots
+Crawl-delay: 1
